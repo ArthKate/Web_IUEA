@@ -5,5 +5,5 @@ This platform is for comparing prices of difference commodities on the market to
 ## GETTING STARTED
 Project to begin shortly (Not yet started)
 
-###Author
+### Author
 Arthur
